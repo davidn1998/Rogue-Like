@@ -23,7 +23,7 @@ This game was made in a few hours mostly to learn and practice rng levels and gr
 
 This project is for viewing purposes only and should not be taken, used, or modified in anyway.
 
-##Acknowledments
+## Acknowledments
 
 * Assets from the Unity survival package.
 * Coding concepts learnt from the unity roguelike tutorials.
