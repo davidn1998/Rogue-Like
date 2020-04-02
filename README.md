@@ -17,11 +17,7 @@ This game was made in a few hours mostly to learn and practice rng levels and gr
 
 ## Authors
 
-* **David Nwachukwu** - *Initial work* - [DavidNGames](http://davidngames.com/)
-
-## Rights
-
-This project is for viewing purposes only and should not be taken, used, or modified in anyway.
+* **David Nwachukwu** - *Initial work* - [DavidNData](http://davidndata.com/)
 
 ## Acknowledments
 
